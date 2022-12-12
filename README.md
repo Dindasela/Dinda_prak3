@@ -1,1 +1,2 @@
-# Dinda_prak3
+# Prak-2
+Praktikum Pemweb Prak 2
